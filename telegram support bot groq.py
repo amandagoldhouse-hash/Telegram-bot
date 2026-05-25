@@ -9,8 +9,8 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 from groq import Groq
 
 # ===== تنظیمات =====
-TELEGRAM_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"   # توکن از BotFather
-GROQ_API_KEY = "YOUR_GROQ_API_KEY"           # کلید از console.groq.com
+TELEGRAM_TOKEN = 8651960573:AAE52bx7r5UKnvpS1aRvhl_8jgFi3xPiG7E "YOUR_TELEGRAM_BOT_TOKEN"   # توکن از BotFather
+GROQ_API_KEY = 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 "YOUR_GROQ_API_KEY"           # کلید از console.groq.com
 
 # شخصیت و اطلاعات کسب‌وکار خودت رو اینجا بنویس
 BUSINESS_INFO = """
